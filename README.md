@@ -37,4 +37,7 @@ Add additional notes to deploy this on a live system
 - **Programmer B** - Provided README Template - [Profile B](https://github.com/TheSlump7)
 See also the list of [contributors](https://github.com/berenise7/todo-list/graphs/contributors) who participated in this project.
 
+## License
+This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+Creactive Commons License see the [LICENSE.md](LICENSE.md) file for details
 

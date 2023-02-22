@@ -27,3 +27,8 @@ End with an example of getting some data out of the system or using it dor a lit
 
 ## Deployment
 Add additional notes to deploy this on a live system
+
+## Built With
+- [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
+- [Creative Commons](https://creativecommons.org/) - Used to choose the license
+

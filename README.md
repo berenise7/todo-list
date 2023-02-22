@@ -32,3 +32,6 @@ Add additional notes to deploy this on a live system
 - [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
 - [Creative Commons](https://creativecommons.org/) - Used to choose the license
 
+## Author
+- **Programmer A** - Provided README Template - [Profile A](https://github.com/berenise7)
+- **Programmer B** - Provided README Template - [Profile B](https://github.com/TheSlump7)

@@ -35,3 +35,6 @@ Add additional notes to deploy this on a live system
 ## Author
 - **Programmer A** - Provided README Template - [Profile A](https://github.com/berenise7)
 - **Programmer B** - Provided README Template - [Profile B](https://github.com/TheSlump7)
+See also the list of [contributors](https://github.com/berenise7/todo-list/graphs/contributors) who participated in this project.
+
+

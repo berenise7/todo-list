@@ -1,10 +1,11 @@
 # Project Title
-One Paragraph of the project description
+One Paragraph of the project description.
+
 You can find more information by visiting the [CodeSpace](https://codespaceacademy.com/) repository.
 
 ## Getting Started
-These instructions will give you a copy of the project up
-and running on your local machine for development and testing purposes.
+These instructions will give you a copy of the project up and running on your local machine for development and testing purposes.
+
 See deployment for notes on deploying the project on a live system.
 
 ### Prerequites
@@ -14,6 +15,7 @@ Requirements for the software and other tools to build, test and push
 
 ### Installing 
 A step by step series of examples that tell you how to get a development environment running.
+
 Say what the step will be
 > Give the example
 
@@ -36,5 +38,6 @@ See also the list of [contributors](https://github.com/berenise7/todo-list/graph
 
 ## License
 This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
+
 Creactive Commons License see the [LICENSE.md](LICENSE.md) file for details
 
